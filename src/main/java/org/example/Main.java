@@ -14,7 +14,7 @@ import java.text.DateFormat;
 import java.util.*;
 import java.io.FileWriter;
 import java.io.File;
-//測試
+
 // TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
